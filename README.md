@@ -1,4 +1,4 @@
-# ControleAcademico
+# Controle-Academico
  Controle Academico de uma Universidade
 
  O Controle Academico tem:
