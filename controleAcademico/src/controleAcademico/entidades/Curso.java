@@ -2,19 +2,19 @@ package controleAcademico.entidades;
 
 public class Curso {
 
-	private String nome;
+	private String nomeCurso;
 
-	public Curso(String nome) {
+	public Curso(String nomeCurso) {
 		super();
-		this.nome = nome;
+		this.nomeCurso = nomeCurso;
 	}
 
 	public String getNome() {
-		return nome;
+		return nomeCurso;
 	}
 
-	public void setNome(String nome) {
-		this.nome = nome;
+	public void setNome(String nomeCurso) {
+		this.nomeCurso = nomeCurso;
 	}
 
 }
